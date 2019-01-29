@@ -1,0 +1,54 @@
+/*
+* {
+    background: orange;
+    fornt-size;74 px;
+}
+body{
+    background-color: #ff0000
+}
+
+h1{
+
+text-align: center;
+}
+p{
+    font-size: 32px;
+    color: #ff0000
+
+}
+nav{
+    color: #ff0000
+}
+submit-button{
+
+    background-color:#00ff00
+    coral:#fffff
+    border: 1px solid #ff0000
+}
+*/
+nav{
+    clear: both;
+}
+nav li {
+     padding-bottom : 20 px;
+    border: 1px solid red;
+    display: inline;
+     
+}
+button {
+    font-size: 32px;
+    margin: 20px;
+padding: 22px;
+background-color: olivedrab;
+border : 12 px solid red;
+
+}
+.infinity-logo {
+    float: right
+    border
+}
+h1{
+    float: left;
+}
+
+
